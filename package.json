@@ -29,7 +29,7 @@
     "vite": "^5.4.10"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/735783D/ml5-face-dection.git"
-}
+    "type": "git",
+    "url": "git+https://github.com/735783D/ml5-face-dection.git"
+  }
 }
